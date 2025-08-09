@@ -1,0 +1,5 @@
+logging:
+  log_file: logs/sentinel.log
+
+detection:
+  threshold: 5.0
